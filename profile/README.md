@@ -14,7 +14,9 @@ RedM | 335WOTLK
 
 
 <h4>Contributors & management</h4>
+
 [@log-nx](https://github.com/Log-nx), [@daronhudson](https://github.com/daronhudson)
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-nx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="log-nx" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=log-nx&show_icons=true&theme=tokyonight&locale=en" alt="log-nx" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daronhudson&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="daronhudson" /></p>
