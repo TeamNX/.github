@@ -7,28 +7,16 @@ We operate across **both GitHub and GitLab**, with each platform serving differe
 
 ---
 
-## 🧭 Platform Usage
-
-- **GitHub**
-  - Public projects
-  - Community-facing tooling
-  - Ongoing and experimental development
-
-- **GitLab**
-  - Long-term infrastructure
-  - Legacy and archived repositories
-  - Select active projects and internal tooling
-
-> Some older repositories remain archived for historical reference, but both platforms are **actively maintained**.
-
----
 
 ## 🚧 Active Development
 
-We currently have **two projects in active development or roadmap planning**:
+We currently have a few projects in active development or roadmap planning:
 
-- **RedM**
-- **335 WOTLK**
+- **Western Wilds (RedM)**
+- **EternalNX (Minecraft)**
+- **Mobile Applications**
+- **A Web Browser Based Emulation Project**
+- **A Discord Management Bot**
 
 Additional projects may enter development as resources and scope evolve.
 
